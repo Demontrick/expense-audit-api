@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fe65QnKxI/jorVcKVAsVnrGLfXc+Krb7IPorjk7gQZ0=",
+  "Source": "ExpenseAudit.Api",
+  "BasePath": "_content/ExpenseAudit.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
